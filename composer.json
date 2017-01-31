@@ -21,7 +21,7 @@
     ],
     "require": {
         "illuminate/support": "~5.3",
-        "php" : "~7.1",
+        "php" : "7.0.*|~7.1",
         "laravel/framework": "5.3.*",
         "doctrine/dbal": "^2.5"
     },
